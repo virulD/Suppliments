@@ -1,0 +1,15 @@
+.Aboutus{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    color: rgb(228, 7, 73);
+    margin-top: 50px;
+}
+
+.AboutUsContent{
+    display: flex;
+    justify-content: center;
+    margin-left: 180px;
+    font-size: 22px;
+}
